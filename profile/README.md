@@ -40,7 +40,7 @@ Nosso site oficial é o **QuantumMIND** (_Quantum & Mathematical Innovation for 
 ## 🚀&nbsp; Projetos em destaque
 
 - **Biblioteca de QRC baseada em QW** - núcleo em C++ com interface em Python
-- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica [![Acesse o site](https://img.shields.io/badge/🌐-181717)](https://seu-site.com)
+- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica [![Acesse o site](https://img.shields.io/badge/🌐-181717)](https://quantum-lab-ufrn.vercel.app/)
 - **Predição de TEA em bebês com QRC** - aprendizado de máquina apoiado por computação de reservatório quântico
 - **Biópsia líquida com sistemas fuzzy** - modelagem da incerteza em biomarcadores tumorais
 - **Livro de sistemas fuzzy** - funções de pertinência e fundamentos teóricos
