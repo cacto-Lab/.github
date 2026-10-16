@@ -12,11 +12,8 @@
   <a href="https://www.ufrn.br">
     <img src="https://img.shields.io/badge/UFRN-000000.svg?style=for-the-badge&labelColor=000">
   </a>
-  <a href="<url-do-site-quantummind>">
+  <a href="#-o-que-exploramos">
     <img src="https://img.shields.io/badge/SITE%20OFICIAL-QuantumMIND-2f6fed.svg?style=for-the-badge&labelColor=000">
-  </a>
-  <a href="https://quantum-lab-ufrn.vercel.app/">
-    <img src="https://img.shields.io/badge/DEMO-QuantumLab-16b8c4.svg?style=for-the-badge&labelColor=000">
   </a>
 </p>
 
@@ -43,7 +40,7 @@ Nosso site oficial é o **QuantumMIND** (_Quantum & Mathematical Innovation for 
 ## 🚀&nbsp; Projetos em destaque
 
 - **Biblioteca de QRC baseada em QW** - núcleo em C++ com interface em Python
-- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica
+- **QuantumLab** - laboratório visual e interativo para aprender os postulados da computação quântica [![Acesse o site](https://img.shields.io/badge/🌐-181717)](https://seu-site.com)
 - **Predição de TEA em bebês com QRC** - aprendizado de máquina apoiado por computação de reservatório quântico
 - **Biópsia líquida com sistemas fuzzy** - modelagem da incerteza em biomarcadores tumorais
 - **Livro de sistemas fuzzy** - funções de pertinência e fundamentos teóricos
@@ -52,7 +49,7 @@ Nosso site oficial é o **QuantumMIND** (_Quantum & Mathematical Innovation for 
 
 ## 🤝&nbsp; Participe
 
-Recebemos bolsistas, mestrandos e doutorandos ao longo do ano. Se você gosta de pesquisar, programar ou aprender algo novo, fale conosco pelo site.
+Recebemos bolsistas, mestrandos e doutorandos ao longo do ano. Se você gosta de pesquisar, programar ou aprender algo novo, fale conosco pelos canais.
 
 <p align="center">
   <sub>🌵 feito com curiosidade em Natal, RN</sub>
