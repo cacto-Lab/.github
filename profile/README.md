@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/UFRN-000000.svg?style=for-the-badge&labelColor=000">
   </a>
   <a href="#-o-que-exploramos">
-    <img src="https://img.shields.io/badge/SITE%20OFICIAL-QuantumMIND-2f6fed.svg?style=for-the-badge&labelColor=000">
+    <img src="https://img.shields.io/badge/SITE%20OFICIAL-QuantumMIND-1b7a68.svg?style=for-the-badge&labelColor=000">
   </a>
 </p>
 
