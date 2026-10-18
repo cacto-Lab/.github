@@ -1,11 +1,20 @@
-<p id="title" align="center">
+<a name="title"></a>
+
+<h1 align="center">
   <a href="#title">
-    <img width="80" height="80" src="../assets/cacto.svg" >
-    <h1 align="center">CACTO</h1>
+    <img
+      src="../assets/cacto.svg"
+      width="80"
+      height="80"
+      alt="Logo do CACTO"
+    />
+    <br />
+    CACTO
   </a>
-</p>
+</h1>
+
 <p align="center">
-  <b>Center of Alternative Computation</b>
+  <strong>Center of Alternative Computation</strong>
 </p>
 
 <p align="center">
