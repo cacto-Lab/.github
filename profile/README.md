@@ -3,9 +3,6 @@
     <img width="80" height="80" src="../assets/cacto.svg" >
     <h1 align="center">CACTO</h1>
   </a>
-</p>
-
-<p align="center">
   <b>Center of Alternative Computation</b>
 </p>
 
