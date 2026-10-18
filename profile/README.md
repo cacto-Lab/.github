@@ -1,7 +1,5 @@
-<a name="title"></a>
-
 <h1 align="center">
-  <a href="#title">
+  <!-- <a href="#title"> -->
     <img
       src="../assets/cacto.svg"
       width="80"
@@ -10,7 +8,7 @@
     />
     <br />
     CACTO
-  </a>
+  <!-- </a> -->
 </h1>
 
 <p align="center">
