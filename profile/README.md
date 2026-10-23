@@ -1,14 +1,11 @@
 <h1 align="center">
-  <!-- <a href="#title"> -->
-    <img
-      src="../assets/cacto.svg"
-      width="80"
-      height="80"
-      alt="Logo do CACTO"
-    />
-    <br />
-    CACTO
-  <!-- </a> -->
+  <img
+    src="../assets/cacto-2.svg"
+    height="80"
+    alt="Logo do CACTO"
+  />
+  <br />
+  CACTO
 </h1>
 
 <p align="center">
