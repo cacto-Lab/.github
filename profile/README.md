@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="../assets/cacto-2.svg"
+    src="../assets/cacto.svg"
     height="80"
     alt="Logo do CACTO"
   />
